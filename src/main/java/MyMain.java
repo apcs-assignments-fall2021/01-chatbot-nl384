@@ -8,6 +8,8 @@ public class MyMain {
         System.out.println("Hi!");
         scan.nextInt();
 
+        //
+
         Integer.parseInt(scan.next());
 
         System.out.println("How are you doing mate?");
